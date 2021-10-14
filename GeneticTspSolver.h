@@ -1,8 +1,9 @@
 /*
  * GeneticTspSolver.h
  *
- *  Created on: Dec 17, 2020
- *      Author: AGA
+ *WRITTEN BY MOHAMMAD ASADOLAHI  
+ *Mohammad.E.Asadolahi@gmail.com  
+ *https://github.com/mohammadAsadolahi  
  */
 
 #ifndef GENETICTSPSOLVER_H_
