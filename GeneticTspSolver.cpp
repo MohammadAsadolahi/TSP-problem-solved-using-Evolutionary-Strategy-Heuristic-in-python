@@ -1,8 +1,8 @@
 /*
  * GeneticTspSolver.cpp
- *
- *  Created on: Dec 17, 2020
- *      Author: mohmmamad asadolahi
+ *WRITTEN BY MOHAMMAD ASADOLAHI  
+ *Mohammad.E.Asadolahi@gmail.com  
+ *https://github.com/mohammadAsadolahi  
  */
 #include "Graph.cpp"
 class Gene
