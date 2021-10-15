@@ -1,8 +1,9 @@
 /*
  * Graph.h
  *
- *  Created on: Dec 17, 2020
- *      Author: AGA
+ *      Author: mohammad asadolahi 
+ *      https://github.com/mohammadAsadolahi
+ *	Mohammad.E.Asadolahi@gmail.com
  */
 
 #ifndef GRAPH_H_
