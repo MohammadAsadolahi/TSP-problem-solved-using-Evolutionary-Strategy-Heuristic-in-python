@@ -1,7 +1,8 @@
 /*
  * Graph.cpp
- *  Created on: Dec 17, 2020
- *      Author: mohmmamad asadolahi
+  *      Author: mohammad asadolahi 
+ *      https://github.com/mohammadAsadolahi
+ *	Mohammad.E.Asadolahi@gmail.com
  */
 #include <iostream>
 #include <vector>
